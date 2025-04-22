@@ -8,7 +8,7 @@ Aquí encontrarás todos los enlaces oficiales para descargar **Java**, **Launch
 
 ## ☕ Java
 
-- [Adoptium]([https://adoptium.net](https://adoptium.net/es/temurin/archive/))
+- [Adoptium](https://adoptium.net/es/temurin/archive/)
 - [Oracle Java (Java Oficial de Oracle)](https://www.oracle.com/mx/java/technologies/downloads/)
 - [Microsoft Build of OpenJDK](https://learn.microsoft.com/es-es/java/openjdk/download)
 ---
