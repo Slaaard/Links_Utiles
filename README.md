@@ -44,6 +44,26 @@ Aquí encontrarás todos los enlaces oficiales para descargar **Java**, **Launch
 - [Modrinth](https://modrinth.com)
 
 ---
+## 🔤 Editores de Texto
+
+- [Sublime Text](https://www.sublimetext.com/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## 🗜️ Compresores de Archivos
+
+- [WinRAR](https://winrar.es/descargas)
+- [7-Zip](https://www.7-zip.org/)
+
+---
+
+## 🧰 Herramientas para Datapacks y Recursos
+
+- [Generador de pack.mcmeta - Misode](https://misode.github.io/pack-mcmeta/#)
+
+---
 
 ## 🎁 Conseguir Minecraft Premium
 
