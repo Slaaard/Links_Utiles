@@ -48,7 +48,12 @@ Aquí encontrarás todos los enlaces oficiales para descargar **Java**, **Launch
 
 - [Sublime Text](https://www.sublimetext.com/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+## 🔤 IDE's
+
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Eclipse](https://www.eclipse.org/downloads/packages/release)
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download///?section=windows)
 
 ---
 
